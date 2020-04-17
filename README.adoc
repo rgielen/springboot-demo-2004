@@ -15,3 +15,4 @@ Beispielprojekt zum GFU Education Quickie Talk 2020-04-16
 ** wird von Spring Data JPA zur Laufzeit implementiert
 ** passenden Test mit `@SpringBootTest`-Support (JUnit 5) geschrieben
 . Repository-Methode `findByTopic` geschrieben - wird durch https://docs.spring.io/spring-data/jpa/docs/current/reference/html/#jpa.query-methods.query-creation[Methodennamen-DSL] automatisch implementiert
+. Erzeuge JPQL-Query Methode `findCompleted`
