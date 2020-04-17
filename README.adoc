@@ -18,3 +18,4 @@ Beispielprojekt zum GFU Education Quickie Talk 2020-04-16
 . JPQL-Query Methode `findCompleted` erzeugt
 . Initializer-Klasse mit `CommandLineRunner`-Bean erzeugt
 ** Optimierung nachträglich: Lambda eingeführt
+. Controller für manuellen REST-ähnlichen Service erzeugt, mit findAll-Methode
