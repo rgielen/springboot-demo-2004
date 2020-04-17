@@ -20,3 +20,5 @@ Beispielprojekt zum GFU Education Quickie Talk 2020-04-16
 ** Optimierung nachträglich: Lambda eingeführt
 . Controller für manuellen REST-ähnlichen Service erzeugt, mit findAll-Methode
 . Typische CRUD-Methoden und Endpunkte zu Controller hinzugefügt
+.. Ergänzung nach Talk: Exception Handling als Querschnittsaspekt mit `TodoItemNotFoundAdvice`
+
