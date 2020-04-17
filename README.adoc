@@ -1,6 +1,6 @@
 = Spring Boot Demo
 
-Beispielprojekt zum GFU Education Quickie 2020-04-16
+Beispielprojekt zum GFU Education Quickie Talk 2020-04-16
 
 == Schritte
 
@@ -10,3 +10,4 @@ Beispielprojekt zum GFU Education Quickie 2020-04-16
 ** Data JPA
 ** H2 Database
 . Einfachen Hello-World Controller erzeugt in Main-Class
+. TodoItem Entity-Klasse mit Hilfe von https://projectlombok.org/[Lombok] erzeugt
