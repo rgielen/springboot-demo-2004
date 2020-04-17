@@ -22,3 +22,4 @@ Beispielprojekt zum GFU Education Quickie Talk 2020-04-16
 . Typische CRUD-Methoden und Endpunkte zu Controller hinzugefügt
 .. Ergänzung nach Talk: Exception Handling als Querschnittsaspekt mit `TodoItemNotFoundAdvice`
 . _"Richtiges" REST umsonst_: https://spring.io/projects/spring-data-rest[Spring Data REST] hinzugefügt und unter http://localhost:8080/api montiert
+. https://de.wikipedia.org/wiki/Hypertext_Application_Language[HAL] Explorer hinzugefügt - REST Web-Oberfläche für den Browser (`Accept: application/html`), auch unter http://localhost:8080/api montiert.
