@@ -19,3 +19,4 @@ Beispielprojekt zum GFU Education Quickie Talk 2020-04-16
 . Initializer-Klasse mit `CommandLineRunner`-Bean erzeugt
 ** Optimierung nachträglich: Lambda eingeführt
 . Controller für manuellen REST-ähnlichen Service erzeugt, mit findAll-Methode
+. Typische CRUD-Methoden und Endpunkte zu Controller hinzugefügt
