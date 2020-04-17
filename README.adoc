@@ -11,3 +11,6 @@ Beispielprojekt zum GFU Education Quickie Talk 2020-04-16
 ** H2 Database
 . Einfachen Hello-World Controller erzeugt in Main-Class
 . TodoItem Entity-Klasse mit Hilfe von https://projectlombok.org/[Lombok] erzeugt
+. TodoItemRepository Interface erzeugt
+** wird von Spring Data JPA zur Laufzeit implementiert
+** passenden Test mit `@SpringBootTest`-Support (JUnit 5) geschrieben
