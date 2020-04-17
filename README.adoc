@@ -1,0 +1,12 @@
+= Spring Boot Demo
+
+Beispielprojekt zum GFU Education Quickie 2020-04-16
+
+== Schritte
+
+. Spring Boot Projekt mit https://start.spring.io erzeugt mit
+** DevTools
+** Web MVC
+** Data JPA
+** H2 Database
+. Einfachen Hello-World Controller erzeugt in Main-Class
